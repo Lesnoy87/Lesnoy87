@@ -1,6 +1,6 @@
 # Lesnoy87
 
-Small client-side mods for **7 Days to Die** — fog, lighting, atmosphere.
+Small mods for **7 Days to Die** — fog, lighting, atmosphere, and moon-driven gameplay.
 Made and tested by hand; source published for every release.
 
 Русский / English.
