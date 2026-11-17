@@ -11,7 +11,7 @@ Made and tested by hand; source published for every release.
 |---|---|---|
 | **Silent Fog** | Dense outdoor fog that stays out of houses, trader safe zones and closed vehicles. Host-side menu, settings synced to all players. | [Nexus](https://www.nexusmods.com/7daystodie/mods/13963) · [Source](https://github.com/Lesnoy87/silent-fog-client) |
 | **DifRUST** | Rust-style nights: gradual dusk, full darkness from 22:00 to 04:00, gradual dawn. In-game menu with a darkness slider (English / Russian). | [Nexus](https://www.nexusmods.com/7daystodie/mods/13981) · [Source](https://github.com/Lesnoy87/difrust-client) |
-| **LunarEvents** | Moon phases that change gameplay: 8 base phases, rare blessed and cursed moons, Wild packs and Fatal nights. | [Source](https://github.com/Lesnoy87/LunarEvents) |
+| **LunarEvents** | Moon phases that change gameplay: 8 base phases, rare blessed and cursed moons, Wild packs and Fatal nights. | [Download](https://github.com/Lesnoy87/LunarEvents/releases/latest) · [Source](https://github.com/Lesnoy87/LunarEvents) |
 
 ## How I work
 
