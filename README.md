@@ -16,7 +16,7 @@ Made and tested by hand; source published for every release.
 ## How I work
 
 - Every build is tested in game before release; screenshots and testing are done by hand.
-- Source code ships with every mod. Licenses differ: **Silent Fog 1.15.0+** is All Rights Reserved (older versions MIT); **DifRUST** and **Lunar Events** are MIT. See each repository's `LICENSE`.
+- Source code ships with every mod. Licenses differ: **Silent Fog 1.15.0+** is All Rights Reserved (older versions MIT); **DifRUST** is MIT; **Lunar Events 0.3.1+** is All Rights Reserved (0.3.0 and earlier MIT). See each repository's `LICENSE`.
 - AI assistance is used for code and documentation, and it is disclosed on every mod page.
 - No gameplay changes: visuals only, unless a mod says otherwise.
 
